@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name              = 'LearnPod'
-    s.version           = '0.0.1'
+    s.version           = '1.0.0'
     s.summary           = 'Description of your project LearnPod'
     s.homepage          = 'https://github.com/wayde191/LearnPod'
     s.license           = {
